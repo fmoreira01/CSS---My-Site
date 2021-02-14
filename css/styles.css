@@ -6,6 +6,8 @@ body{
 }
 
 h1{
+  font-size: 562.5%;
+
   margin:0 auto 0 auto;
   font-family: 'Sacramento', cursive;
 }
@@ -27,7 +29,6 @@ h2{
 }
 
 .middle-container {
-
 
 }
 

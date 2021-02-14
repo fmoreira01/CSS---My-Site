@@ -39,13 +39,25 @@ h3{
 }
 
 .skill-row {
-  width: 50%;
+  width: 35%;
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 2;
 
 }
 .security-img{
+width: 40%;
+float: left;
+margin-right: 30px;
+}
+
+.document-img{
+width: 40%;
+float: left;
+margin-right: 30px;
+}
+
+.shield-img{
 width: 40%;
 float: left;
 margin-right: 30px;
